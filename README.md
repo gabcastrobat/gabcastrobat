@@ -54,17 +54,15 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tu-usuario&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gabcastrobat&theme=radical&hide_border=true" />
 </p>
-
-> ⚠️ Reemplaza `tu-usuario` por tu usuario real de GitHub en las 3 URLs de arriba para que las tarjetas funcionen.
 
 ---
 
 ### 📫 Hablemos
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gabcastrobat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
