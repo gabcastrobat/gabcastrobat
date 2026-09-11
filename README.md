@@ -49,7 +49,7 @@
 | ⚽ **Gestión Mundial de Fútbol** | App de consola en Java: lectura/escritura de archivos, colecciones y POO aplicada a un mundial. |
 | 🎓 **GestionarAlumnos** | Gestión académica con Maven, estructurada por paquetes, con su diagrama UML detrás. |
 
-> 📌 *Tip: fija (pin) estos repos en tu perfil de GitHub — así son lo primero que ve un reclutador.*
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD23F,50:6AD1FF,100:FF6AC1&height=4" width="100%"/>
