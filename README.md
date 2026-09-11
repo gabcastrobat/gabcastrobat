@@ -27,8 +27,8 @@ Me apasiona construir aplicaciones bien estructuradas, diseñar arquitecturas li
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabcastrobat&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabcastrobat&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
