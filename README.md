@@ -62,7 +62,7 @@
   <img src="assets/alarm-app-preview.png" width="400" alt="App de alarmas preview" />
 </p>
 
-> 📁 Crea una carpeta `assets/` en el repo `gabcastrobat/gabcastrobat`, sube ahí tus capturas (o un banner) y reemplaza las rutas de arriba con los nombres reales de tus archivos.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6AD1FF,50:FFD23F,100:FF6AC1&height=4" width="100%"/>
@@ -79,7 +79,7 @@
   <img src="https://streak-stats.demolab.com?user=gabcastrobat&hide_border=true&background=FFF6E9&ring=FF6AC1&fire=FFD23F&currStreakLabel=6AD1FF" />
 </p>
 
-> ⚠️ Si esta instancia alterna también se satura (pasa de vez en cuando), la solución definitiva es desplegar tu propia copia gratis en Vercel: haces fork de [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), la conectas a tu cuenta de Vercel, y usas tu propio dominio `.vercel.app` en vez del oficial. Nunca más te falla por saturación ajena.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6AC1,50:FFD23F,100:6AD1FF&height=4" width="100%"/>
