@@ -92,6 +92,6 @@
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>"El que no compila, no publica." — probablemente alguien en Stack Overflow</i></p>
+<p align="center"><i>"¡No es un bug, es una funcionalidad no documentada!</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD1FF,50:FFD23F,100:FF6AC1&height=120&section=footer" width="100%"/>
