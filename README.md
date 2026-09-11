@@ -57,13 +57,7 @@
 
 ### 🖼️ Screenshots de proyectos
 
-<p align="center">
-  <img src="assets/otakuworld-preview.png" width="400" alt="OtakuWorld preview" />
-  <img src="assets/alarm-app-preview.png" width="400" alt="App de alarmas preview" />
-</p>
-
-
-
+ <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6AD1FF,50:FFD23F,100:FF6AC1&height=4" width="100%"/>
 </p>
