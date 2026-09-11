@@ -12,9 +12,9 @@
 
 ### 🎯 Sobre mí
 
-🔭 Estudiando Ingeniería de Sistemas en Colombia — armando mi propio "Second Brain" de conocimiento, un proyecto a la vez.
+🔭 Estudiando Ingeniería de Sistemas en Colombia.
 🟢 **Disponible para prácticas / primer empleo** — si buscas a alguien que aprende rápido y no le teme a un stack trace, hablemos.
-🎮 Cuando no programo, seguro ando entre anime, vinilos/cassettes retro o pensando el próximo proyecto raro que nadie me pidió.
+🎮 Cuando no programo, seguro ando entre anime, musica o pensando el próximo proyecto raro que nadie me pidió.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6AD1FF,50:FF6AC1,100:FFD23F&height=4" width="100%"/>
