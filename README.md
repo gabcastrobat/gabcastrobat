@@ -57,7 +57,7 @@
 
 ### 🖼️ Screenshots de proyectos
 
- <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> 
+ <img src="https://skillicons.dev/icons?i=html,css,js,java,py"/> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6AD1FF,50:FFD23F,100:FF6AC1&height=4" width="100%"/>
 </p>
